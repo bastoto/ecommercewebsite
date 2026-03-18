@@ -25,11 +25,11 @@ window.PRODUCTS = [
       { name: "White", hex: "#FFFFFF" },
       { name: "Ivory", hex: "#FFFFF0" }
     ],
-    image: "https://picsum.photos/seed/white-tee/400/500",
+    image: "https://i.imgur.com/Y54Bt8J.jpeg",
     images: [
-      "https://picsum.photos/seed/white-tee-1/400/500",
-      "https://picsum.photos/seed/white-tee-2/400/500",
-      "https://picsum.photos/seed/white-tee-3/400/500"
+      "https://i.imgur.com/SZPDSgy.jpeg",
+      "https://i.imgur.com/sJv4Xx0.jpeg",
+      "https://i.imgur.com/axsyGpD.jpeg"
     ],
     badge: null,
     rating: 4.5,
@@ -51,11 +51,11 @@ window.PRODUCTS = [
       { name: "Black", hex: "#212121" },
       { name: "Light Wash", hex: "#90CAF9" }
     ],
-    image: "https://picsum.photos/seed/slim-jeans/400/500",
+    image: "https://i.imgur.com/mp3rUty.jpeg",
     images: [
-      "https://picsum.photos/seed/slim-jeans-1/400/500",
-      "https://picsum.photos/seed/slim-jeans-2/400/500",
-      "https://picsum.photos/seed/slim-jeans-3/400/500"
+      "https://i.imgur.com/JQRGIc2.jpeg",
+      "https://i.imgur.com/ZKGofuB.jpeg",
+      "https://i.imgur.com/GJi73H0.jpeg"
     ],
     badge: "SALE",
     rating: 4.3,
@@ -76,12 +76,11 @@ window.PRODUCTS = [
       { name: "Black", hex: "#212121" },
       { name: "Dark Brown", hex: "#4E342E" }
     ],
-    image: "https://picsum.photos/seed/leather-jacket/400/500",
+    image: "https://i.imgur.com/9DqEOV5.jpeg",
     images: [
-      "https://picsum.photos/seed/leather-jacket-1/400/500",
-      "https://picsum.photos/seed/leather-jacket-2/400/500",
-      "https://picsum.photos/seed/leather-jacket-3/400/500",
-      "https://picsum.photos/seed/leather-jacket-4/400/500"
+      "https://i.imgur.com/ae0AEYn.jpeg",
+      "https://i.imgur.com/mZ4rUjj.jpeg",
+      "https://i.imgur.com/T8oq9X2.jpeg"
     ],
     badge: "NEW",
     rating: 4.8,
@@ -103,11 +102,11 @@ window.PRODUCTS = [
       { name: "Camel", hex: "#C8A96E" },
       { name: "Navy", hex: "#1A237E" }
     ],
-    image: "https://picsum.photos/seed/wool-overcoat/400/500",
+    image: "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
     images: [
-      "https://picsum.photos/seed/wool-overcoat-1/400/500",
-      "https://picsum.photos/seed/wool-overcoat-2/400/500",
-      "https://picsum.photos/seed/wool-overcoat-3/400/500"
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/4.webp"
     ],
     badge: null,
     rating: 4.7,
@@ -129,11 +128,11 @@ window.PRODUCTS = [
       { name: "Light Blue", hex: "#BBDEFB" },
       { name: "Pink", hex: "#F8BBD0" }
     ],
-    image: "https://picsum.photos/seed/oxford-shirt/400/500",
+    image: "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
     images: [
-      "https://picsum.photos/seed/oxford-shirt-1/400/500",
-      "https://picsum.photos/seed/oxford-shirt-2/400/500",
-      "https://picsum.photos/seed/oxford-shirt-3/400/500"
+      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/4.webp"
     ],
     badge: null,
     rating: 4.4,
@@ -155,11 +154,11 @@ window.PRODUCTS = [
       { name: "Navy", hex: "#1A237E" },
       { name: "Olive", hex: "#6B8E23" }
     ],
-    image: "https://picsum.photos/seed/chino-pants/400/500",
+    image: "https://i.imgur.com/UsFIvYs.jpeg",
     images: [
-      "https://picsum.photos/seed/chino-pants-1/400/500",
-      "https://picsum.photos/seed/chino-pants-2/400/500",
-      "https://picsum.photos/seed/chino-pants-3/400/500"
+      "https://i.imgur.com/YIq57b6.jpeg",
+      "https://i.imgur.com/633Fqrz.jpeg",
+      "https://i.imgur.com/eGOUveI.jpeg"
     ],
     badge: "SALE",
     rating: 4.2,
@@ -181,11 +180,11 @@ window.PRODUCTS = [
       { name: "Burgundy", hex: "#7B1F3A" },
       { name: "Navy", hex: "#1A237E" }
     ],
-    image: "https://picsum.photos/seed/cashmere-sweater/400/500",
+    image: "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/1.webp",
     images: [
-      "https://picsum.photos/seed/cashmere-sweater-1/400/500",
-      "https://picsum.photos/seed/cashmere-sweater-2/400/500",
-      "https://picsum.photos/seed/cashmere-sweater-3/400/500"
+      "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/4.webp"
     ],
     badge: "NEW",
     rating: 4.9,
@@ -207,11 +206,11 @@ window.PRODUCTS = [
       { name: "Light Grey", hex: "#CFD8DC" },
       { name: "Powder Blue", hex: "#B3CDE0" }
     ],
-    image: "https://picsum.photos/seed/linen-blazer/400/500",
+    image: "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp",
     images: [
-      "https://picsum.photos/seed/linen-blazer-1/400/500",
-      "https://picsum.photos/seed/linen-blazer-2/400/500",
-      "https://picsum.photos/seed/linen-blazer-3/400/500"
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/4.webp"
     ],
     badge: null,
     rating: 4.5,
@@ -238,12 +237,11 @@ window.PRODUCTS = [
       { name: "Midnight Black", hex: "#1B1B1B" },
       { name: "Dusty Rose", hex: "#D4A0A0" }
     ],
-    image: "https://picsum.photos/seed/silk-dress/400/500",
+    image: "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/1.webp",
     images: [
-      "https://picsum.photos/seed/silk-dress-1/400/500",
-      "https://picsum.photos/seed/silk-dress-2/400/500",
-      "https://picsum.photos/seed/silk-dress-3/400/500",
-      "https://picsum.photos/seed/silk-dress-4/400/500"
+      "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/3.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/4.webp"
     ],
     badge: "NEW",
     rating: 4.7,
@@ -265,11 +263,11 @@ window.PRODUCTS = [
       { name: "Camel", hex: "#C8A96E" },
       { name: "Cream", hex: "#FFFDD0" }
     ],
-    image: "https://picsum.photos/seed/hw-trousers/400/500",
+    image: "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/1.webp",
     images: [
-      "https://picsum.photos/seed/hw-trousers-1/400/500",
-      "https://picsum.photos/seed/hw-trousers-2/400/500",
-      "https://picsum.photos/seed/hw-trousers-3/400/500"
+      "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/3.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/4.webp"
     ],
     badge: null,
     rating: 4.6,
@@ -291,11 +289,11 @@ window.PRODUCTS = [
       { name: "Soft Pink", hex: "#F1C6D3" },
       { name: "Charcoal", hex: "#424242" }
     ],
-    image: "https://picsum.photos/seed/cashmere-cardi/400/500",
+    image: "https://cdn.dummyjson.com/product-images/tops/gray-dress/1.webp",
     images: [
-      "https://picsum.photos/seed/cashmere-cardi-1/400/500",
-      "https://picsum.photos/seed/cashmere-cardi-2/400/500",
-      "https://picsum.photos/seed/cashmere-cardi-3/400/500"
+      "https://cdn.dummyjson.com/product-images/tops/gray-dress/2.webp",
+      "https://cdn.dummyjson.com/product-images/tops/gray-dress/3.webp",
+      "https://cdn.dummyjson.com/product-images/tops/gray-dress/4.webp"
     ],
     badge: "SALE",
     rating: 4.8,
@@ -317,11 +315,11 @@ window.PRODUCTS = [
       { name: "Forest Green", hex: "#2E5A3E" },
       { name: "Navy", hex: "#1A237E" }
     ],
-    image: "https://picsum.photos/seed/pleated-skirt/400/500",
+    image: "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/1.webp",
     images: [
-      "https://picsum.photos/seed/pleated-skirt-1/400/500",
-      "https://picsum.photos/seed/pleated-skirt-2/400/500",
-      "https://picsum.photos/seed/pleated-skirt-3/400/500"
+      "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/3.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/4.webp"
     ],
     badge: null,
     rating: 4.4,
@@ -343,11 +341,11 @@ window.PRODUCTS = [
       { name: "Blush", hex: "#F8C8C8" },
       { name: "Black", hex: "#212121" }
     ],
-    image: "https://picsum.photos/seed/satin-blouse/400/500",
+    image: "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
     images: [
-      "https://picsum.photos/seed/satin-blouse-1/400/500",
-      "https://picsum.photos/seed/satin-blouse-2/400/500",
-      "https://picsum.photos/seed/satin-blouse-3/400/500"
+      "https://cdn.dummyjson.com/product-images/tops/blue-frock/2.webp",
+      "https://cdn.dummyjson.com/product-images/tops/blue-frock/3.webp",
+      "https://cdn.dummyjson.com/product-images/tops/blue-frock/4.webp"
     ],
     badge: null,
     rating: 4.3,
@@ -369,12 +367,11 @@ window.PRODUCTS = [
       { name: "Ivory", hex: "#FFFFF0" },
       { name: "Red", hex: "#B71C1C" }
     ],
-    image: "https://picsum.photos/seed/tailored-blazer/400/500",
+    image: "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/1.webp",
     images: [
-      "https://picsum.photos/seed/tailored-blazer-1/400/500",
-      "https://picsum.photos/seed/tailored-blazer-2/400/500",
-      "https://picsum.photos/seed/tailored-blazer-3/400/500",
-      "https://picsum.photos/seed/tailored-blazer-4/400/500"
+      "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/3.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/4.webp"
     ],
     badge: "NEW",
     rating: 4.9,
@@ -396,11 +393,11 @@ window.PRODUCTS = [
       { name: "Camel", hex: "#C8A96E" },
       { name: "Burgundy", hex: "#7B1F3A" }
     ],
-    image: "https://picsum.photos/seed/knit-turtle/400/500",
+    image: "https://cdn.dummyjson.com/product-images/tops/short-frock/1.webp",
     images: [
-      "https://picsum.photos/seed/knit-turtle-1/400/500",
-      "https://picsum.photos/seed/knit-turtle-2/400/500",
-      "https://picsum.photos/seed/knit-turtle-3/400/500"
+      "https://cdn.dummyjson.com/product-images/tops/short-frock/2.webp",
+      "https://cdn.dummyjson.com/product-images/tops/short-frock/3.webp",
+      "https://cdn.dummyjson.com/product-images/tops/short-frock/4.webp"
     ],
     badge: "SALE",
     rating: 4.5,
@@ -421,11 +418,11 @@ window.PRODUCTS = [
       { name: "Black", hex: "#212121" },
       { name: "Cognac", hex: "#9A6233" }
     ],
-    image: "https://picsum.photos/seed/leather-pants/400/500",
+    image: "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/1.webp",
     images: [
-      "https://picsum.photos/seed/leather-pants-1/400/500",
-      "https://picsum.photos/seed/leather-pants-2/400/500",
-      "https://picsum.photos/seed/leather-pants-3/400/500"
+      "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/3.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/4.webp"
     ],
     badge: null,
     rating: 4.6,
@@ -452,12 +449,11 @@ window.PRODUCTS = [
       { name: "Black", hex: "#212121" },
       { name: "Burgundy", hex: "#7B1F3A" }
     ],
-    image: "https://picsum.photos/seed/leather-tote/400/500",
+    image: "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/1.webp",
     images: [
-      "https://picsum.photos/seed/leather-tote-1/400/500",
-      "https://picsum.photos/seed/leather-tote-2/400/500",
-      "https://picsum.photos/seed/leather-tote-3/400/500",
-      "https://picsum.photos/seed/leather-tote-4/400/500"
+      "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/3.webp",
+      "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/1.webp"
     ],
     badge: null,
     rating: 4.8,
@@ -479,11 +475,11 @@ window.PRODUCTS = [
       { name: "Gold/Brown", hex: "#FFD700" },
       { name: "Rose Gold/Blush", hex: "#E8B4B8" }
     ],
-    image: "https://picsum.photos/seed/min-watch/400/500",
+    image: "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/1.webp",
     images: [
-      "https://picsum.photos/seed/min-watch-1/400/500",
-      "https://picsum.photos/seed/min-watch-2/400/500",
-      "https://picsum.photos/seed/min-watch-3/400/500"
+      "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp"
     ],
     badge: null,
     rating: 4.7,
@@ -505,11 +501,11 @@ window.PRODUCTS = [
       { name: "Red Floral", hex: "#C62828" },
       { name: "Neutral Abstract", hex: "#BCAAA4" }
     ],
-    image: "https://picsum.photos/seed/silk-scarf/400/500",
+    image: "https://cdn.dummyjson.com/product-images/tops/tartan-dress/1.webp",
     images: [
-      "https://picsum.photos/seed/silk-scarf-1/400/500",
-      "https://picsum.photos/seed/silk-scarf-2/400/500",
-      "https://picsum.photos/seed/silk-scarf-3/400/500"
+      "https://cdn.dummyjson.com/product-images/tops/tartan-dress/2.webp",
+      "https://cdn.dummyjson.com/product-images/tops/tartan-dress/3.webp",
+      "https://cdn.dummyjson.com/product-images/tops/tartan-dress/4.webp"
     ],
     badge: null,
     rating: 4.6,
@@ -531,11 +527,11 @@ window.PRODUCTS = [
       { name: "Silver/Blue", hex: "#90CAF9" },
       { name: "Black/Grey", hex: "#424242" }
     ],
-    image: "https://picsum.photos/seed/aviator-sun/400/500",
+    image: "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/1.webp",
     images: [
-      "https://picsum.photos/seed/aviator-sun-1/400/500",
-      "https://picsum.photos/seed/aviator-sun-2/400/500",
-      "https://picsum.photos/seed/aviator-sun-3/400/500"
+      "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/2.webp",
+      "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/3.webp",
+      "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp"
     ],
     badge: null,
     rating: 4.5,
@@ -556,11 +552,11 @@ window.PRODUCTS = [
       { name: "Black/Brown", hex: "#3E2723" },
       { name: "Navy/Tan", hex: "#1A237E" }
     ],
-    image: "https://picsum.photos/seed/leather-belt/400/500",
+    image: "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
     images: [
-      "https://picsum.photos/seed/leather-belt-1/400/500",
-      "https://picsum.photos/seed/leather-belt-2/400/500",
-      "https://picsum.photos/seed/leather-belt-3/400/500"
+      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/1.webp"
     ],
     badge: null,
     rating: 4.4,
@@ -582,11 +578,11 @@ window.PRODUCTS = [
       { name: "Camel", hex: "#C8A96E" },
       { name: "Grey", hex: "#757575" }
     ],
-    image: "https://picsum.photos/seed/wool-fedora/400/500",
+    image: "https://i.imgur.com/KeqG6r4.jpeg",
     images: [
-      "https://picsum.photos/seed/wool-fedora-1/400/500",
-      "https://picsum.photos/seed/wool-fedora-2/400/500",
-      "https://picsum.photos/seed/wool-fedora-3/400/500"
+      "https://i.imgur.com/xGQOw3p.jpeg",
+      "https://i.imgur.com/oO5OUjb.jpeg",
+      "https://i.imgur.com/R3iobJA.jpeg"
     ],
     badge: null,
     rating: 4.3,
@@ -608,11 +604,11 @@ window.PRODUCTS = [
       { name: "Silver", hex: "#C0C0C0" },
       { name: "Rose Gold", hex: "#E8B4B8" }
     ],
-    image: "https://picsum.photos/seed/gold-hoops/400/500",
+    image: "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/1.webp",
     images: [
-      "https://picsum.photos/seed/gold-hoops-1/400/500",
-      "https://picsum.photos/seed/gold-hoops-2/400/500",
-      "https://picsum.photos/seed/gold-hoops-3/400/500"
+      "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/3.webp",
+      "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/1.webp"
     ],
     badge: null,
     rating: 4.7,
@@ -634,11 +630,11 @@ window.PRODUCTS = [
       { name: "Tan", hex: "#D2A76A" },
       { name: "Navy", hex: "#1A237E" }
     ],
-    image: "https://picsum.photos/seed/leather-wallet/400/500",
+    image: "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/1.webp",
     images: [
-      "https://picsum.photos/seed/leather-wallet-1/400/500",
-      "https://picsum.photos/seed/leather-wallet-2/400/500",
-      "https://picsum.photos/seed/leather-wallet-3/400/500"
+      "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/3.webp",
+      "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp"
     ],
     badge: null,
     rating: 4.5,
